@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/zhihu-webpage/static/css/main.2d9ccf34.css",
-    "main.js": "/zhihu-webpage/static/js/main.d40a65be.js",
-    "static/js/787.4f1b6887.chunk.js": "/zhihu-webpage/static/js/787.4f1b6887.chunk.js",
-    "static/media/ad-amazon.jpeg": "/zhihu-webpage/static/media/ad-amazon.321daceb747234cf236a.jpeg",
-    "static/media/avatar.png": "/zhihu-webpage/static/media/avatar.74f9f1a6bc484cf7895d.png",
-    "index.html": "/zhihu-webpage/index.html",
-    "main.2d9ccf34.css.map": "/zhihu-webpage/static/css/main.2d9ccf34.css.map",
-    "main.d40a65be.js.map": "/zhihu-webpage/static/js/main.d40a65be.js.map",
-    "787.4f1b6887.chunk.js.map": "/zhihu-webpage/static/js/787.4f1b6887.chunk.js.map"
+    "main.css": "/page-zhihu/static/css/main.2d9ccf34.css",
+    "main.js": "/page-zhihu/static/js/main.3c7de762.js",
+    "static/js/787.4f1b6887.chunk.js": "/page-zhihu/static/js/787.4f1b6887.chunk.js",
+    "static/media/ad-amazon.jpeg": "/page-zhihu/static/media/ad-amazon.321daceb747234cf236a.jpeg",
+    "static/media/avatar.png": "/page-zhihu/static/media/avatar.74f9f1a6bc484cf7895d.png",
+    "index.html": "/page-zhihu/index.html",
+    "main.2d9ccf34.css.map": "/page-zhihu/static/css/main.2d9ccf34.css.map",
+    "main.3c7de762.js.map": "/page-zhihu/static/js/main.3c7de762.js.map",
+    "787.4f1b6887.chunk.js.map": "/page-zhihu/static/js/787.4f1b6887.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d9ccf34.css",
-    "static/js/main.d40a65be.js"
+    "static/js/main.3c7de762.js"
   ]
 }
